@@ -7,3 +7,5 @@ dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/cus
 dconf write /org/gnome/settings-daemon/plugins/media-keys/custom-keybindings "['/org/gnome/settings-daemon/plugins/media-keys/custom-keybindings/custom0/']"
 echo
 echo "Now you can press 'CTRL+ALT+t(T)' to open new terminal window"
+
+# I can't make this configs at "gsettings". If u can make this configs in "gsetting" pls write it
